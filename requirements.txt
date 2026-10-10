@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+Pillow>=10
+gradio_client>=1.4
+huggingface_hub>=0.35
+requests>=2.31

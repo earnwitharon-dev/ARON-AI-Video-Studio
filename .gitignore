@@ -1,0 +1,39 @@
+﻿# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local generated content
+uploads/*
+!uploads/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Secrets / tokens / environment
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+token*
+*token*.txt
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+pip-log.txt
+
+# Archives / backups
+*.zip
+_BACKUP*/
+BACKUP*/
